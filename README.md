@@ -117,7 +117,7 @@ ROIC, Terminal Value, EV/EBITDA, Football Field Analysis
 ## 👤 Author
 
 **Nasim Ul Jilani Memon**
-🏅CFA L1 Aspirint |
+🏅CFA L1 Aspirant |
 📉 NISM Series XV — Research Analyst | NISM Series VIII — Equity Derivatives  
 🐍 Python | 📗 Excel | 🗄️ SQL | 📊 Power BI  
 ✍️ Finance Writer on Substack
